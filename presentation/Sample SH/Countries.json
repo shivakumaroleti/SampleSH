@@ -1,0 +1,36 @@
+{
+  "presentationTable" : {
+    "name" : "Countries",
+    "presentationColumns" : [ {
+      "name" : "Country Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Id"
+    }, {
+      "name" : "Country Iso Code",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Iso Code"
+    }, {
+      "name" : "Country Name",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Name"
+    }, {
+      "name" : "Country Subregion",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Subregion"
+    }, {
+      "name" : "Country Subregion Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Subregion Id"
+    }, {
+      "name" : "Country Region",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Region"
+    }, {
+      "name" : "Country Region Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Region Id"
+    }, {
+      "name" : "Country Total",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Total"
+    }, {
+      "name" : "Country Total Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Total Id"
+    }, {
+      "name" : "Country Name Hist",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Countries.Country Name Hist"
+    } ]
+  }
+}

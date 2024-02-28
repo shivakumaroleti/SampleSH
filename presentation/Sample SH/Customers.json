@@ -1,0 +1,75 @@
+{
+  "presentationTable" : {
+    "name" : "Customers",
+    "presentationColumns" : [ {
+      "name" : "Cust Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Id"
+    }, {
+      "name" : "Cust First Name",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust First Name"
+    }, {
+      "name" : "Cust Last Name",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Last Name"
+    }, {
+      "name" : "Cust Gender",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Gender"
+    }, {
+      "name" : "Cust Year Of Birth",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Year Of Birth"
+    }, {
+      "name" : "Cust Marital Status",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Marital Status"
+    }, {
+      "name" : "Cust Street Address",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Street Address"
+    }, {
+      "name" : "Cust Postal Code",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Postal Code"
+    }, {
+      "name" : "Cust City",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust City"
+    }, {
+      "name" : "Cust City Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust City Id"
+    }, {
+      "name" : "Cust State Province",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust State Province"
+    }, {
+      "name" : "Cust State Province Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust State Province Id"
+    }, {
+      "name" : "Country Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Country Id"
+    }, {
+      "name" : "Cust Main Phone Number",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Main Phone Number"
+    }, {
+      "name" : "Cust Income Level",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Income Level"
+    }, {
+      "name" : "Cust Credit Limit",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Credit Limit"
+    }, {
+      "name" : "Cust Email",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Email"
+    }, {
+      "name" : "Cust Total",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Total"
+    }, {
+      "name" : "Cust Total Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Total Id"
+    }, {
+      "name" : "Cust Src Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Src Id"
+    }, {
+      "name" : "Cust Eff From",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Eff From"
+    }, {
+      "name" : "Cust Eff To",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Eff To"
+    }, {
+      "name" : "Cust Valid",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Customers.Cust Valid"
+    } ]
+  }
+}

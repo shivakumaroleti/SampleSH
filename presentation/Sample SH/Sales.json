@@ -1,0 +1,12 @@
+{
+  "presentationTable" : {
+    "name" : "Sales",
+    "presentationColumns" : [ {
+      "name" : "Quantity Sold",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Sales.Quantity Sold"
+    }, {
+      "name" : "Amount Sold",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Sales.Amount Sold"
+    } ]
+  }
+}

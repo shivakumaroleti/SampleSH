@@ -1,0 +1,24 @@
+{
+  "presentationTable" : {
+    "name" : "Channels",
+    "presentationColumns" : [ {
+      "name" : "Channel Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Channels.Channel Id"
+    }, {
+      "name" : "Channel Desc",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Channels.Channel Desc"
+    }, {
+      "name" : "Channel Class",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Channels.Channel Class"
+    }, {
+      "name" : "Channel Class Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Channels.Channel Class Id"
+    }, {
+      "name" : "Channel Total",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Channels.Channel Total"
+    }, {
+      "name" : "Channel Total Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Channels.Channel Total Id"
+    } ]
+  }
+}

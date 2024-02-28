@@ -1,0 +1,21 @@
+{
+  "subjectArea" : {
+    "name" : "Sample SH",
+    "sourceBusinessModel" : "businessModel:Sample SH",
+    "tableOrder" : [ {
+      "name" : "presentationTable:Sample SH.Channels"
+    }, {
+      "name" : "presentationTable:Sample SH.Countries"
+    }, {
+      "name" : "presentationTable:Sample SH.Customers"
+    }, {
+      "name" : "presentationTable:Sample SH.Products"
+    }, {
+      "name" : "presentationTable:Sample SH.Promotions"
+    }, {
+      "name" : "presentationTable:Sample SH.Sales"
+    }, {
+      "name" : "presentationTable:Sample SH.Times"
+    } ]
+  }
+}

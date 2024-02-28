@@ -1,0 +1,120 @@
+{
+  "presentationTable" : {
+    "name" : "Times",
+    "presentationColumns" : [ {
+      "name" : "Time Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Time Id"
+    }, {
+      "name" : "Day Name",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Day Name"
+    }, {
+      "name" : "Day Number In Week",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Day Number In Week"
+    }, {
+      "name" : "Day Number In Month",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Day Number In Month"
+    }, {
+      "name" : "Calendar Week Number",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Week Number"
+    }, {
+      "name" : "Fiscal Week Number",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Week Number"
+    }, {
+      "name" : "Week Ending Day",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Week Ending Day"
+    }, {
+      "name" : "Week Ending Day Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Week Ending Day Id"
+    }, {
+      "name" : "Calendar Month Number",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Month Number"
+    }, {
+      "name" : "Fiscal Month Number",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Month Number"
+    }, {
+      "name" : "Calendar Month Desc",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Month Desc"
+    }, {
+      "name" : "Calendar Month Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Month Id"
+    }, {
+      "name" : "Fiscal Month Desc",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Month Desc"
+    }, {
+      "name" : "Fiscal Month Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Month Id"
+    }, {
+      "name" : "Days In Cal Month",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Days In Cal Month"
+    }, {
+      "name" : "Days In Fis Month",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Days In Fis Month"
+    }, {
+      "name" : "End Of Cal Month",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.End Of Cal Month"
+    }, {
+      "name" : "End Of Fis Month",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.End Of Fis Month"
+    }, {
+      "name" : "Calendar Month Name",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Month Name"
+    }, {
+      "name" : "Fiscal Month Name",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Month Name"
+    }, {
+      "name" : "Calendar Quarter Desc",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Quarter Desc"
+    }, {
+      "name" : "Calendar Quarter Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Quarter Id"
+    }, {
+      "name" : "Fiscal Quarter Desc",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Quarter Desc"
+    }, {
+      "name" : "Fiscal Quarter Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Quarter Id"
+    }, {
+      "name" : "Days In Cal Quarter",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Days In Cal Quarter"
+    }, {
+      "name" : "Days In Fis Quarter",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Days In Fis Quarter"
+    }, {
+      "name" : "End Of Cal Quarter",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.End Of Cal Quarter"
+    }, {
+      "name" : "End Of Fis Quarter",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.End Of Fis Quarter"
+    }, {
+      "name" : "Calendar Quarter Number",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Quarter Number"
+    }, {
+      "name" : "Fiscal Quarter Number",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Quarter Number"
+    }, {
+      "name" : "Calendar Year",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Year"
+    }, {
+      "name" : "Calendar Year Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Calendar Year Id"
+    }, {
+      "name" : "Fiscal Year",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Year"
+    }, {
+      "name" : "Fiscal Year Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Fiscal Year Id"
+    }, {
+      "name" : "Days In Cal Year",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Days In Cal Year"
+    }, {
+      "name" : "Days In Fis Year",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.Days In Fis Year"
+    }, {
+      "name" : "End Of Cal Year",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.End Of Cal Year"
+    }, {
+      "name" : "End Of Fis Year",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Times.End Of Fis Year"
+    } ]
+  }
+}

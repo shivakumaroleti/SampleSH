@@ -1,0 +1,39 @@
+{
+  "presentationTable" : {
+    "name" : "Promotions",
+    "presentationColumns" : [ {
+      "name" : "Promo Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Id"
+    }, {
+      "name" : "Promo Name",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Name"
+    }, {
+      "name" : "Promo Subcategory",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Subcategory"
+    }, {
+      "name" : "Promo Subcategory Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Subcategory Id"
+    }, {
+      "name" : "Promo Category",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Category"
+    }, {
+      "name" : "Promo Category Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Category Id"
+    }, {
+      "name" : "Promo Cost",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Cost"
+    }, {
+      "name" : "Promo Begin Date",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Begin Date"
+    }, {
+      "name" : "Promo End Date",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo End Date"
+    }, {
+      "name" : "Promo Total",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Total"
+    }, {
+      "name" : "Promo Total Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Promotions.Promo Total Id"
+    } ]
+  }
+}

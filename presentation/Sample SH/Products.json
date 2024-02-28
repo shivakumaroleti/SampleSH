@@ -1,0 +1,92 @@
+{
+  "presentationTable" : {
+    "name" : "Products",
+    "presentationColumns" : [ {
+      "name" : "Prod Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Id"
+    }, {
+      "name" : "Prod Name",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Name"
+    }, {
+      "name" : "Prod Desc",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Desc"
+    }, {
+      "name" : "Prod Subcategory",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Subcategory"
+    }, {
+      "name" : "Prod Subcategory Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Subcategory Id"
+    }, {
+      "name" : "Prod Subcategory Desc",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Subcategory Desc"
+    }, {
+      "name" : "Prod Category",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Category"
+    }, {
+      "name" : "Prod Category Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Category Id"
+    }, {
+      "name" : "Prod Category Desc",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Category Desc"
+    }, {
+      "name" : "Prod Weight Class",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Weight Class"
+    }, {
+      "name" : "Prod Unit Of Measure",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Unit Of Measure"
+    }, {
+      "name" : "Prod Pack Size",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Pack Size"
+    }, {
+      "name" : "Supplier Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Supplier Id"
+    }, {
+      "name" : "Prod Status",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Status"
+    }, {
+      "name" : "Prod List Price",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod List Price"
+    }, {
+      "name" : "Prod Min Price",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Min Price"
+    }, {
+      "name" : "Prod Total",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Total"
+    }, {
+      "name" : "Prod Total Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Total Id"
+    }, {
+      "name" : "Prod Src Id",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Src Id"
+    }, {
+      "name" : "Prod Eff From",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Eff From"
+    }, {
+      "name" : "Prod Eff To",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Eff To"
+    }, {
+      "name" : "Prod Valid",
+      "sourceLogicalColumn" : "logicalColumn:Sample SH.Products.Prod Valid"
+    } ],
+    "hierarchies" : [ {
+      "name" : "H1",
+      "sourceLogicalTable" : "logicalTable:Sample SH.Products",
+      "levels" : [ {
+        "name" : "Total",
+        "sourceLogicalLevel" : "logicalLevel:Sample SH.Products.Total"
+      }, {
+        "name" : "Product Category",
+        "sourceLogicalLevel" : "logicalLevel:Sample SH.Products.Product Category",
+        "displayColumn" : "presentationColumn:Sample SH.Products.Prod Category"
+      }, {
+        "name" : "Product Sub Category",
+        "sourceLogicalLevel" : "logicalLevel:Sample SH.Products.Product Sub Category",
+        "displayColumn" : "presentationColumn:Sample SH.Products.Prod Subcategory"
+      }, {
+        "name" : "Detail",
+        "sourceLogicalLevel" : "logicalLevel:Sample SH.Products.Detail",
+        "displayColumn" : "presentationColumn:Sample SH.Products.Prod Id"
+      } ]
+    } ]
+  }
+}
